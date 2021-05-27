@@ -17,7 +17,7 @@ movie_id	movie	year	rating
 9	Aquaman	2018	7	
 10	Extremely Wicked, Shockingly Evil, and Vile	2019	8	
 11	Child's Play	2019	0	
-12	The Favourite	2018	8	
+12	The Favourite	2018	8
 13	Captain Marvel	2019	0	
 14	A Star Is Born	2018	8	
 15	Incredibles 2	2018	8	
